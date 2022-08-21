@@ -1,11 +1,10 @@
 # Computer and Political Science Student at the University of Michigan 〽️
 
-Hello, my name is Daniel Chuang and you can email me at [dkchuang@umich.edu](mailto:dkchuang@umich.edu).
+Hello, my name is Daniel Chuang. My personal website is [tinyurl.com/daniel-chuang](tinyurl.com/daniel-chuang), and you can email me at [dkchuang@umich.edu](mailto:dkchuang@umich.edu).
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chuang-7a1bb920b/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxJIH142HcyaDzB5w4aR33w/videos)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sharpinclude)
-[![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tinyurl.com/daniel-chuang)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/dcswagness3a22)
 
 ## Technologies
