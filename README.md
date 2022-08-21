@@ -2,9 +2,9 @@
 
 ## These are my favorite projects!
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-chuang&repo=BWSI-RACECAR"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-chuang&repo=tedx-animations"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-chuang&repo=the-powerpoint-jedi"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-chuang&repo=BWSI-RACECAR" style="width:300px;"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-chuang&repo=tedx-animations" style="width:300px;"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-chuang&repo=gen-art-gallery" style="width:300px;"/>
 
 
 ## Socials
@@ -31,19 +31,16 @@
 ![Version Control](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-## Dabbled a bit in
-
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-## Learning / Planning to Learn
+## Learning / Planning to Learn / Dabbled In
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ## Design
 
