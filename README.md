@@ -1,18 +1,10 @@
 # Computer and Political Science Student at the University of Michigan 〽️
 
-## These are my favorite projects!
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-chuang&repo=BWSI-RACECAR" style="width:300px;"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-chuang&repo=tedx-animations" style="width:300px;"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-chuang&repo=gen-art-gallery" style="width:300px;"/>
-
-
-## Socials
+Hello, my name is Daniel Chuang and you can email me at [dkchuang@umich.edu](mailto:dkchuang@umich.edu).
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chuang-7a1bb920b/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxJIH142HcyaDzB5w4aR33w/videos)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sharpinclude)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkchuang@umich.edu)
 [![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tinyurl.com/daniel-chuang)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/dcswagness3a22)
 
@@ -30,6 +22,9 @@
 ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Version Control](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/affinity_designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+
 
 ## Learning / Planning to Learn / Dabbled In
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
@@ -41,14 +36,6 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-## Design
-
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/affinity_designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Other
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=daniel-chuang&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-chuang&hide=TeX&layout=compact)
