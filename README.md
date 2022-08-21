@@ -36,5 +36,3 @@ Hello, my name is Daniel Chuang. My personal website is [tinyurl.com/daniel-chua
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=daniel-chuang&count_private=true&show_icons=true&include_all_commits=true)
