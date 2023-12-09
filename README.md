@@ -1,8 +1,8 @@
-# Computer & Political Science Student @ University of Michigan 〽️
+# Computer & Political Science Student @ Cornell University 🐻
 
 <center><img src="banner.gif" width="100%"></center>
 
-**Hello, my name is Daniel Chuang. My personal website is [http://daniel-chuang.com/](http://daniel-chuang.com/), and you can email me with dkchuang AT umich.edu.**
+**Hello, my name is Daniel Chuang. My personal website is [http://daniel-chuang.com/](http://daniel-chuang.com/), and you can email me with dc863 @ cornell.edu.**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chuang-7a1bb920b/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxJIH142HcyaDzB5w4aR33w/videos)
