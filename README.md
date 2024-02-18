@@ -1,4 +1,4 @@
-# Computer & Political Science Student @ Cornell University 🐻
+# Computer Science and Mathematics Undergraduate @ Cornell University 🐻
 
 <center><img src="banner.gif" width="100%"></center>
 
