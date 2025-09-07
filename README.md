@@ -1,4 +1,4 @@
-# Computer Science and Mathematics Undergraduate @ Cornell University 🐻
+# Computer Science and Mathematics @ Cornell 🐻
 
 <center><img src="banner.gif" width="100%"></center>
 
